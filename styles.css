@@ -7,6 +7,35 @@
 	height:46px;
 	width: 208px;
 }
+.material-symbols-outlined{
+	float: right;
+}
+
+
+.menu p{
+	display: inline-block;
+	margin-top: 8px;
+	margin-bottom: 8px;
+	font-size: 17px;
+	font-weight: bold;
+	color: #85586F;
+}
+
+.messenger{
+	text-align: right;
+	width: 93%;
+}
+.help{
+	text-align: right;
+	width: 4%;
+}
+
+
+
+
+
+
+
 
 body{
 	width: 100%;
@@ -19,6 +48,19 @@ body{
 
 }
 
-main{
+form{
+	width: 80vw;
+	margin: 0 auto;
+	max-width: 650px;
+	min-width: 400px;
+	background: rgb(222, 182, 171);
+	color: #ffffff;
 	padding: 2em;
+	border-radius: 5px;
 }
+
+.whole-form{
+	background: rgb(248, 236, 209);
+}
+
+
